@@ -130,7 +130,7 @@
     <value>&amp;Blacklist Current Game</value>
   </data>
   <data name="card_drops_remaining" xml:space="preserve">
-    <value>card drops remaining</value>
+    <value>Card drops remaining</value>
   </data>
   <data name="currently_ingame" xml:space="preserve">
     <value>Currently in-game</value>
